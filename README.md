@@ -15,7 +15,9 @@ One of the key features of this project is the use of complex animations and tra
 ## Video Demonstration
 
 For a more detailed look at the animations and transitions in action, check out the video demonstration here.
+
 [![Watch the video](https://img.youtube.com/vi/DNyqAcPsqHo/maxresdefault.jpg)](https://youtu.be/DNyqAcPsqHo)
+
 ## Future Work
 
 This is just the beginning! I'll be continuing to experiment with Flutter and push the boundaries of what's possible with animations and transitions. Stay tuned for more updates and feel free to contribute!
